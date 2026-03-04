@@ -56,6 +56,6 @@ This project applies **KMeans clustering** to the Netflix dataset to discover na
 
 ---
 
-## 🛠️ Libraries
+## Libraries
 
 `pandas` `numpy` `scikit-learn` `matplotlib` `kagglehub`
